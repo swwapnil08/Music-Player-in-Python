@@ -1,6 +1,6 @@
 """
-@Author: Pranta Sarker
-Institute: North East University Bangladesh
+@Author: Swapnil D Patil
+Institute: R. C. Patel Institute of Technology
 Language: Python
 Version: 3.x
 Platfrom: Pycharm Community Version
